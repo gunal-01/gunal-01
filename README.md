@@ -1,9 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
-
-![Hi there, I’m Gunal](https://github.com/user-attachments/assets/11cd0171-58bf-4741-9038-b8393c5cef62)
-
+  
 <img src="https://github.com/user-attachments/assets/11cd0171-58bf-4741-9038-b8393c5cef62" alt="Hi there, I’m Gunal" width="300" height="300">
 
 
