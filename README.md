@@ -2,8 +2,7 @@
 
 <div align="center" width="50">
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/T77UGDd"  ><a href="//imgur.com/a/T77UGDd">welcome</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<a href="//imgur.com/a/T77UGDd">welcome</a>
 </div>
 <br>
 <a href="https://www.linkedin.com/in/gunal-ananth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTRjkmVE2QA6Gve5CChV19g%3D%3D">
