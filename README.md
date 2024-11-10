@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://www.canva.com/design/DAGWEYUgTqs/o6xM35fx5G-ilTndhmx_nw/watch?utm_content=DAGWEYUgTqs&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Welcome!" width="300"/>
+<img src="https://imgur.com/gallery/welcome-kFWG92s" alt="Welcome!" width="300"/>
 
 </div>
 <br>
