@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-(https://github.com/user-attachments/assets/efd7a1cb-c83a-4914-bf66-d3d42ff4041b)
+![Hi there, I’m Gunal](https://github.com/user-attachments/assets/11cd0171-58bf-4741-9038-b8393c5cef62 | width = 100)
 
 </div>
 <br>
