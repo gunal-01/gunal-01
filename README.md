@@ -4,28 +4,11 @@
   
 <img src="https://github.com/user-attachments/assets/11cd0171-58bf-4741-9038-b8393c5cef62" alt="Hi there, I’m Gunal" width="500" height="200">
 
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gunal_prakash) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gunal-ananth/)
 
 </div>
 <br>
-<a href="https://www.linkedin.com/in/gunal-ananth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTRjkmVE2QA6Gve5CChV19g%3D%3D">
-  <img align="center" alt="gunal @LinkedIN" heigh="22px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="mailto:gunalprakash006@gmail.com">
-  <img align="center" alt="gunal @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
-<a href="https://twitter.com/gunal_prakash">
-  <img align="center" alt="gunal @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://leetcode.com/u/gunalprakash006">
-  <img align="center" alt="gunal @Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<!-- <a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="center" alt="gunal @CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a> -->
-<a href="https://gunal-dev.vercel.app/">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gunal @DEV Profile" width="22px">
-</a>
-</h1>
+
 
 <p align="center">
   <em>
