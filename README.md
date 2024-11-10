@@ -4,6 +4,9 @@
 
 ![Hi there, I’m Gunal](https://github.com/user-attachments/assets/11cd0171-58bf-4741-9038-b8393c5cef62)
 
+<img src="https://github.com/user-attachments/assets/11cd0171-58bf-4741-9038-b8393c5cef62" alt="Hi there, I’m Gunal" width="300" height="300">
+
+
 </div>
 <br>
 <a href="https://www.linkedin.com/in/gunal-ananth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTRjkmVE2QA6Gve5CChV19g%3D%3D">
