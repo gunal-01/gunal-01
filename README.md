@@ -2,7 +2,8 @@
 
 <div align="center" width="50">
 
-<a href="//imgur.com/a/T77UGDd">welcome</a>
+![Hi there, I’m Gunal](https://github.com/user-attachments/assets/efd7a1cb-c83a-4914-bf66-d3d42ff4041b)
+
 </div>
 <br>
 <a href="https://www.linkedin.com/in/gunal-ananth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTRjkmVE2QA6Gve5CChV19g%3D%3D">
