@@ -8,7 +8,7 @@
 </div>
 <br>
 <a href="https://www.linkedin.com/in/gunal-ananth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTRjkmVE2QA6Gve5CChV19g%3D%3D">
-  <img align="center" alt="gunal @LinkedIN" heigh="22" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="gunal @LinkedIN" heigh="22px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   <a href="mailto:gunalprakash006@gmail.com">
   <img align="center" alt="gunal @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
