@@ -45,8 +45,11 @@
   <img src="https://profile-counter.glitch.me/gunal-01/count.svg" />
   
 </p>
-<p align="center">
+<div align="center">
   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/gunalprakash006?ext=contest&theme=dark)](https://leetcode.com/u/gunalprakash006/)
-</p>
+
+</div>
+
+
 [![gunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunal-01&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
