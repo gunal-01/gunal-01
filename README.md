@@ -1,4 +1,5 @@
-<h2> Hi 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!![Welcome to My GitHub Profile](https://github.com/user-attachments/assets/55895029-a4bf-44d2-83a4-b454c2a9a98e)
+ </h2>
 
 <div align="center" width="50">
   
