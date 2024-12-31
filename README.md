@@ -41,7 +41,7 @@
 <hr>
 <p align="center">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gunal-01&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gunal-01)](https://github.com/gunal-01/github-readme-stats)
 </p>
 
 <hr>
