@@ -27,7 +27,7 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-- 🔭 Here's my [resume]([https://gunal-dev.vercel.app/](https://drive.google.com/file/d/19GxVO_TirtGNBbvr5sTRrL0nLLMkHUx9/view?usp=sharing))
+- 🔭 Here's my [resume]([https://drive.google.com/file/d/19GxVO_TirtGNBbvr5sTRrL0nLLMkHUx9/view?usp=sharing])
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝
 -  🚩 I’m looking for help with Placements in FAANG
