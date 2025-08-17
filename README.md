@@ -29,8 +29,7 @@
 
 <!--- 🔭 Here's my [resume](https://drive.google.com/file/d/1rMWyGnR7frRBL87dIu1DGpkMAsXmfCGW/view?usp=sharing) -->
 - <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝
--  🚩 I’m looking for help with Placements in FAANG
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m interested in collaborating on Open - Source Projects 🤝
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express-js.png"/>
